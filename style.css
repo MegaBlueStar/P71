@@ -3,3 +3,21 @@ body{
     font: Verdana;
     text-align: center;
 }
+
+.header_entrepreneur{
+    display: inline-block;
+    line-height: 2;
+}
+
+h2{
+    color: purple;
+}
+
+h4{
+    color: crimson;
+}
+
+mark {
+  background-color: yellow;
+  color: black;
+}
